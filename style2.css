@@ -21,8 +21,11 @@ body {
 	justify-content: space-around;
 	background-position: center;
 }
-h1{
+.container h1{
 	font-size: 2rem; 
+}
+.container form{
+    margin-bottom: 2%;
 }
 .faded {
 	color: rgba(255, 255, 255, 0.8); 
